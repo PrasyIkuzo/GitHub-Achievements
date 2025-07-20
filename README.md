@@ -85,11 +85,11 @@ ___________________________________________________________________
 
 # **ℹ️ More Information**
 
-#### You can find more information about GitHub Badges under this [link](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
+#### You can find more information about GitHub Badges under this [Click Here](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
 
 <!-- </div> -->
 ####
 
 <div align="center">
-  <img align="center" width="50%" src="/Media/Badges/Pull-Shark/GIF/PullShark_Animated.gif">
+  <img align="center" width="50%" src="https://github.com/PrasyIkuzo/GitHub-Achievements/blob/prasy/Badges/PullShark_Animated.gif">
 </div>
