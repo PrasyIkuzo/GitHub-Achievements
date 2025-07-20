@@ -1,10 +1,12 @@
 **<h1 align="center">Prasy Ikuzo</h1>**
 
-## **🏆 GitHub Achievements 🏆**
+<p align="center">
+
+## **🏆 GITHUB ACHIEVEMENTS 🏆**
 
 <div align="center">
   <picture>
-  <!-- TODO I couldn't figure out how to properly add local links in place of these images. These should be fixed later. - @seanpm2001 !-->
+  <!-- TODO I couldn't figure out how to properly add local links in place of these images. These should be fixed later. - @PrasyIkuzo !-->
     <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/65187002/172940015-d9d072e7-c47d-4ddd-83f6-8e7717a721b8.png">
     <img src="https://user-images.githubusercontent.com/65187002/172940773-7ef23b63-3356-4634-9e52-34f2676e2854.png">
   </picture><br>
@@ -24,7 +26,7 @@
 
 ___________________________________________________________________
 
-## **📝 List Achievement**
+# **📝 List Achievement**
 <br>
 
 | Badge | Name | How to get | Needed amount | 
@@ -41,7 +43,7 @@ ___________________________________________________________________
 
 ___________________________________________________________________
 
-## **💫 Achievement Skin Tone**
+# **💫 Achievement Skin Tone**
 
 #### Some achievements' appearance depends on your Emoji Skin Tone Preference.
 
@@ -56,7 +58,7 @@ ___________________________________________________________________
 
 ___________________________________________________________________
 
-## **✨ Highlights Badges**
+# **✨ Highlights Badges**
 <br>
 
 <!-- TODO Some of these should have light mode first, and dark mode second. For consistency. - @PrasyIkuzo !-->
@@ -71,7 +73,7 @@ ___________________________________________________________________
 
 ___________________________________________________________________
 
-## **🛑 Badges No Longer Earnable**
+# **🛑 Badges No Longer Earnable**
 <br>
 
 | Badge | Name | How to get | Needed amount | 
@@ -81,7 +83,7 @@ ___________________________________________________________________
 
 ___________________________________________________________________
 
-## **ℹ️ More Information**
+# **ℹ️ More Information**
 
 #### You can find more information about GitHub Badges under this [link](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile).
 
