@@ -22,8 +22,7 @@
             src="https://img.shields.io/badge/Saweria-orange?style=for-the-badge&logoColor=white&logo=saweria"
             alt="Saweria"></a>
 [![Saweria](https://img.shields.io/badge/Click--Here-white?style=for-the-badge&logo=saweria)](https://saweria.co/PrasyIkuzo)
-
-___________________________________________________________________
+<br>
 
 # <img src="/Media/pagerollup.gif" width="25px"> **Achievement List**
 
@@ -35,8 +34,6 @@ Explore GitHub's Achievements List, which features categories like Earnable Achi
 
 > [!WARNING]  
 > **You can opt out from having achievements displayed on your profile by going to your** [Profile Settings](https://github.com/settings)
-
-___________________________________________________________________
 
 ## <img src="/Media/medali.gif" width="30px"> **Obtainable Achievements**
 <br>
@@ -53,8 +50,6 @@ ___________________________________________________________________
 | ![YOLO](https://github.com/PrasyIkuzo/GitHub-Achievements/blob/prasy/Badges/YOLO_Badge.png)                 | YOLO        | Merged a pull request without a review | <table>  <thead>  <tr>  <th>DEFAULT</th>  </tr>  </thead>  <tbody>  <tr>  <td><img src="/Badges/YOLO_Badge.png" width="60px"></td> </tr>  <tr>  <td align="center">1</td> </tr>   </tbody>  </table> |
 | ![Public Sponsor](https://github.com/PrasyIkuzo/GitHub-Achievements/blob/prasy/Badges/GitHubSponsorBadge.png)                 | Public Sponsor        | Sponsored an open source contributor through [GitHub Sponsors](https://github.com/sponsors) | <table>  <thead>  <tr>  <th>DEFAULT</th>  </tr>  </thead>  <tbody>  <tr>  <td><img src="/Badges/GitHubSponsorBadge.png" width="60px"></td> </tr>  <tr>  <td align="center">1</td> </tr>   </tbody>  </table> |
 
-___________________________________________________________________
-
 ## <img src="/Media/stop.gif" width="25px"> **Un-Obtainable Achievements**
 
 Un-Obtainable Achievements are badges that were once available but can no longer be earned. These achievements are part of GitHub's history, showcasing milestones that are now preserved as legacy accomplishments. <img src="/Media/tropyemoji.gif" width="20px">
@@ -66,8 +61,6 @@ Un-Obtainable Achievements are badges that were once available but can no longer
 | ![Mars 2020 Contributor](/Badges/Mars2020ContributorBadge.png)     | Mars 2020 Contributor  | Contributed code to a repository used in the [Mars 2020 Helicopter Mission](https://github.com/readme/featured/nasa-ingenuity-helicopter) | <table>  <thead>  <tr>  <th>DEFAULT</th>  </tr>  </thead>  <tbody>  <tr>  <td><img src="/Badges/Mars2020ContributorBadge.png" width="60px"></td> </tr>  <tr>  <td align="center">1</td> </tr>   </tbody>  </table> |
 | ![Arctic Code Vault Contributor](/Badges/2020ArcticCodeVaultBadge.png) | Arctic Code Vault Contributor | Contributed code to a repository in the [2020 GitHub Archive Program](https://archiveprogram.github.com) | <table>  <thead>  <tr>  <th>DEFAULT</th>  </tr>  </thead>  <tbody>  <tr>  <td><img src="/Badges/2020ArcticCodeVaultBadge.png" width="60px"></td> </tr>  <tr>  <td align="center">1</td> </tr>   </tbody>  </table> |
 
-___________________________________________________________________
-
 # <img src="/Media/colortray.gif" width="35px"> **Tier Colors & Labels**
 
 Every tier has either an x2, x3, or x4 label with it that also includes color. Here is the information about each one below :
@@ -77,8 +70,6 @@ Every tier has either an x2, x3, or x4 label with it that also includes color. H
 Bronze 🥉 | x2 | ![x2](/Image/custom/tier-label/tier-label-bronze.svg) | #F9BFA7 | ![#F9BFA7](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23F9BFA7-yellow?style=flat-square&color=F9BFA7)
 Silver 🥈 | x3 | ![x3](/Image/custom/tier-label/tier-label-silver.svg) | #E1E4E4 | ![#E1E4E4](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23E1E4E4-yellow?style=flat-square&color=E1E4E4)
 Gold 🥇 | x4 | ![x4](/Image/custom/tier-label/tier-label-gold.svg) | #FAE57E | ![#FAE57E](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23FAE57E-yellow?style=flat-square&color=FAE57E)
-
-___________________________________________________________________
 
 # <img src="/Media/hello.gif" width="30px"> **Achievement Skin Tone**
 
@@ -92,8 +83,6 @@ ___________________________________________________________________
 | ![Starstruck](https://github.com/PrasyIkuzo/GitHub-Achievements/blob/prasy/Badges/StarStruck_SkinTone1.png)                 | Starstruck         | <table>  <thead>  <tr>  <th>👋</th> <th>👋🏻</th>  <th>👋🏼</th>  <th>👋🏽</th>  <th>👋🏾</th>  <th>👋🏿</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="/Badges/StarStruck_SkinTone1.png" width="60px"></td>   <td align="center"><img src="/Badges/StarStruck_SkinTone2.png" width="60px"></td>  <td align="center"><img src="/Badges/StarStruck_SkinTone3.png" width="60px"></td>  <td align="center"><img src="/Badges/StarStruck_SkinTone4.png" width="60px"></td>  <td align="center"><img src="/Badges/StarStruck_SkinTone5.png" width="60px"></td>   <td align="center"><img src="/Badges/StarStruck_SkinTone6.png" width="60px"></td>   </tr>   <tr>  <td align="center">👋</td> <td align="center">👋🏻</td>  <td align="center">👋🏼</td>  <td align="center">👋🏽</td>  <td align="center">👋🏾</td>  <td align="center">👋🏿</td>  </tr>  </tbody>  </table>      |
 | ![Quickdraw](https://github.com/PrasyIkuzo/GitHub-Achievements/blob/prasy/Badges/QuickDraw_SkinTone1.png)                 | Quickdraw         | <table>  <thead>  <tr>  <th>👋</th> <th>👋🏻</th>  <th>👋🏼</th>  <th>👋🏽</th>  <th>👋🏾</th>  <th>👋🏿</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="/Badges/QuickDraw_SkinTone1.png" width="60px"></td>   <td align="center"><img src="Badges/QuickDraw_SkinTone2.png" width="60px"></td>  <td align="center"><img src="/Badges/QuickDraw_SkinTone3.png" width="60px"></td>  <td align="center"><img src="/Badges/QuickDraw_SkinTone4.png" width="60px"></td>  <td align="center"><img src="/Badges/QuickDraw_SkinTone5.png" width="60px"></td>   <td align="center"><img src="/Badges/QuickDraw_SkinTone6.png" width="60px"></td>   </tr>   <tr>  <td align="center">👋</td> <td align="center">👋🏻</td>  <td align="center">👋🏼</td>  <td align="center">👋🏽</td>  <td align="center">👋🏾</td>  <td align="center">👋🏿</td>  </tr>  </tbody>  </table>      |
 
-___________________________________________________________________
-
 # <img src="/Media/sparkles.gif" width="30px"> **Highlights Badges** <img src="/Media/sparkles.gif" width="30px">
 <br>
 
@@ -104,8 +93,6 @@ ___________________________________________________________________
 | ![security-bug-bounty-hunter-dark](https://user-images.githubusercontent.com/65187002/173081624-93e3cf1f-50b7-45a4-82b7-1954f66368b9.svg#gh-dark-mode-only)![security-bug-bounty-hunter-light](https://user-images.githubusercontent.com/65187002/173081657-e500d72c-9247-44c2-a3d3-2deff30e1ae7.svg#gh-light-mode-only) | Security Bug Bounty Hunter |                 Helped out hunting down security vulnerabilities at [GitHub Security](https://bounty.github.com/)                 |
 |       ![github-campus-expert-dark](https://user-images.githubusercontent.com/65187002/173082819-b3625c23-bfd6-4492-b828-56ed91c45f52.svg#gh-dark-mode-only)![github-campus-expert-light](https://user-images.githubusercontent.com/65187002/173082836-08be81fe-13b7-4acf-9096-e5241d76f237.svg#gh-light-mode-only)       |    GitHub Campus Expert    |                         Participate in the [GitHub Campus Program](https://education.github.com/experts)                          |
 |   ![security-advisory-credit-dark](https://user-images.githubusercontent.com/65187002/173084051-79a0a626-1c1a-4d60-afdf-50ad001d7b21.svg#gh-dark-mode-only)![security-advisory-credit-light](https://user-images.githubusercontent.com/65187002/173084071-5f321da2-b2a9-490b-a524-1b21fa384d7e.svg#gh-light-mode-only)   |  Security advisory credit  |          Have your security advisory submitted to the [GitHub Advisory Database](https://github.com/advisories) accepted          |
-
-___________________________________________________________________
 
 # <img src="/Media/clock.gif" width="30px"> **Previous Version**
 
@@ -120,8 +107,6 @@ From the [start with Ingenuity on 2021-04-19](https://github.blog/2021-04-19-ope
 - Mars 2020 Helicopter Contributor
 + Mars 2020 Contributor
 ```
-
-___________________________________________________________________
 
 # <img src="/Media/clipboard.png" width="30px"> **Credits**
 - Massive credit goes to @Schweinepriester for the high quality images for each badge, labels, information for each badge, and the inspiration to make this repository.
