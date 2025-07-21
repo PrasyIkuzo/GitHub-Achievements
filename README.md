@@ -18,6 +18,8 @@
   </picture>
 </div>
 
+___________________________________________________________________
+
 ## 🍻 Buy Me A Coffee
     <a href="https://saweria.co/PrasyIkuzo" target="_blank"><img
             src="https://img.shields.io/badge/Saweria-orange?style=for-the-badge&logoColor=white&logo=saweria"
@@ -94,8 +96,6 @@ ___________________________________________________________________
 
 <!-- TODO Some of these should have light mode first, and dark mode second. For consistency. - @PrasyIkuzo !-->
 
-<br>
-
 |                                                                                                                                                          Badge                                                                                                                                                           |            Name            |                                                            How to get                                                             |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
 |                       ![pro-black](https://user-images.githubusercontent.com/65187002/173065669-d1fdb5a7-8895-43cc-8dea-72a511a37e86.svg#gh-light-mode-only) ![pro-white](https://user-images.githubusercontent.com/65187002/173065531-57dbf8b1-7eb7-4d46-81bf-f2d18c7c9112.svg#gh-dark-mode-only)                       |            Pro             |            Use [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro)             |
@@ -136,5 +136,6 @@ ___________________________________________________________________
 <div align="center">
   <img align="center" width="50%" src="https://github.com/PrasyIkuzo/GitHub-Achievements/blob/prasy/Badges/PullShark_Animated.gif">
 </div>
+
 
 ![Dinosaurs 🗿](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/dino.gif)
