@@ -102,7 +102,7 @@ ___________________________________________________________________
 
 ___________________________________________________________________
 
-## 🛑 **Previous Version**
+# <img src="/Media/clock.gif" width="30px"> **Previous Version**
 
 ### 2021-04-19 - 2022-06-09
 
@@ -118,7 +118,7 @@ From the [start with Ingenuity on 2021-04-19](https://github.blog/2021-04-19-ope
 
 ___________________________________________________________________
 
-## 🔭 **Credits**
+# <img src="/Media/problem.gif" width="30px"> **Credits**
 - Massive credit goes to @Schweinepriester for the high quality images for each badge, labels, information for each badge, and the inspiration to make this repository.
 - Credit to @drknzz for the skin tone images, information about it too & inspiration.
 
