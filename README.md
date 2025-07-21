@@ -124,8 +124,6 @@ ___________________________________________________________________
 - Massive credit goes to @Schweinepriester for the high quality images for each badge, labels, information for each badge, and the inspiration to make this repository.
 - Credit to @drknzz for the skin tone images, information about it too & inspiration.
 
-___________________________________________________________________
-
-# 😊 **Se You Next Time**
+<br>
 
 ![Dinosaurs 🗿](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/dino.gif)
