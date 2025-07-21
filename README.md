@@ -67,7 +67,6 @@ ___________________________________________________________________
 #### Some achievements appearance depends on your Emoji Skin Tone Preference.
 
 #### You can change your preferred Skin Tone by going to [Appearance Settings](https://github.com/settings/appearance)
-
 <br>
 
 | Badge | Name | Skin Tone Version | 
@@ -91,8 +90,6 @@ ___________________________________________________________________
 
 # ✨ **Highlights Badges**
 <br>
-
-<!-- TODO Some of these should have light mode first, and dark mode second. For consistency. - @PrasyIkuzo !-->
 
 |                                                                                                                                                          Badge                                                                                                                                                           |            Name            |                                                            How to get                                                             |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
