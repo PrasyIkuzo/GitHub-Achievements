@@ -2,10 +2,6 @@
 
 <p align="center">
 
-![PrasyIkuzo](https://github.com/PrasyIkuzo/GitHub-Achievements/blob/prasy/Image/achievements-logo/github%20achievements.png)
-
-## 🏆 **GITHUB ACHIEVEMENTS** 🏆
-
 <div align="center">
   <picture>
   <!-- TODO I couldn't figure out how to properly add local links in place of these images. These should be fixed later. - @PrasyIkuzo !-->
@@ -17,6 +13,10 @@
     <img width="50%" src="https://user-images.githubusercontent.com/65187002/172941149-31258408-bfc3-496a-8a58-e34794b21813.png">
   </picture>
 </div>
+
+## 🏆 **GITHUB ACHIEVEMENTS** 🏆
+
+![PrasyIkuzo](https://github.com/PrasyIkuzo/GitHub-Achievements/blob/prasy/Image/achievements-logo/github%20achievements.png)
 
 ## 🍻 **Buy Me A Coffee**
 <a href="https://saweria.co/PrasyIkuzo" target="_blank"><img
