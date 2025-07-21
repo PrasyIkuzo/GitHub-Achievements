@@ -62,18 +62,6 @@ ___________________________________________________________________
 
 ___________________________________________________________________
 
-# 🎨 **Tier Colors & Labels**
-
-Each tier has a label associated which includes a color.
-
-| Tier | Label | Sample | Hex | Visual |
-| --- | --- | --- | --- | --- |
-Bronze 🥉 | x2 | ![x2](/Image/custom/tier-label/tier-label-bronze.svg) | #F9BFA7 | ![#F9BFA7](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23F9BFA7-yellow?style=flat-square&color=F9BFA7)
-Silver 🥈 | x3 | ![x3](/Image/custom/tier-label/tier-label-silver.svg) | #E1E4E4 | ![#E1E4E4](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23E1E4E4-yellow?style=flat-square&color=E1E4E4)
-Gold 🥇 | x4 | ![x4](/Image/custom/tier-label/tier-label-gold.svg) | #FAE57E | ![#FAE57E](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23FAE57E-yellow?style=flat-square&color=FAE57E)
-
-___________________________________________________________________
-
 # 👋 **Achievement Skin Tone**
 
 #### Some achievements appearance depends on your Emoji Skin Tone Preference.
@@ -86,6 +74,18 @@ ___________________________________________________________________
 | :-: | :-: | :-: |
 | ![Starstruck](https://github.com/PrasyIkuzo/GitHub-Achievements/blob/prasy/Badges/StarStruck_SkinTone1.png)                 | Starstruck         | <table>  <thead>  <tr>  <th>👋</th> <th>👋🏻</th>  <th>👋🏼</th>  <th>👋🏽</th>  <th>👋🏾</th>  <th>👋🏿</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="/Badges/StarStruck_SkinTone1.png" width="60px"></td>   <td align="center"><img src="/Badges/StarStruck_SkinTone2.png" width="60px"></td>  <td align="center"><img src="/Badges/StarStruck_SkinTone3.png" width="60px"></td>  <td align="center"><img src="/Badges/StarStruck_SkinTone4.png" width="60px"></td>  <td align="center"><img src="/Badges/StarStruck_SkinTone5.png" width="60px"></td>   <td align="center"><img src="/Badges/StarStruck_SkinTone6.png" width="60px"></td>   </tr>   <tr>  <td align="center">👋</td> <td align="center">👋🏻</td>  <td align="center">👋🏼</td>  <td align="center">👋🏽</td>  <td align="center">👋🏾</td>  <td align="center">👋🏿</td>  </tr>  </tbody>  </table>      |
 | ![Quickdraw](https://github.com/PrasyIkuzo/GitHub-Achievements/blob/prasy/Badges/QuickDraw_SkinTone1.png)                 | Quickdraw         | <table>  <thead>  <tr>  <th>👋</th> <th>👋🏻</th>  <th>👋🏼</th>  <th>👋🏽</th>  <th>👋🏾</th>  <th>👋🏿</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="/Badges/QuickDraw_SkinTone1.png" width="60px"></td>   <td align="center"><img src="Badges/QuickDraw_SkinTone2.png" width="60px"></td>  <td align="center"><img src="/Badges/QuickDraw_SkinTone3.png" width="60px"></td>  <td align="center"><img src="/Badges/QuickDraw_SkinTone4.png" width="60px"></td>  <td align="center"><img src="/Badges/QuickDraw_SkinTone5.png" width="60px"></td>   <td align="center"><img src="/Badges/QuickDraw_SkinTone6.png" width="60px"></td>   </tr>   <tr>  <td align="center">👋</td> <td align="center">👋🏻</td>  <td align="center">👋🏼</td>  <td align="center">👋🏽</td>  <td align="center">👋🏾</td>  <td align="center">👋🏿</td>  </tr>  </tbody>  </table>      |
+
+___________________________________________________________________
+
+# 🎨 **Tier Colors & Labels**
+
+Each tier has a label associated which includes a color.
+
+| Tier | Label | Sample | Hex | Visual |
+| --- | --- | --- | --- | --- |
+Bronze 🥉 | x2 | ![x2](/Image/custom/tier-label/tier-label-bronze.svg) | #F9BFA7 | ![#F9BFA7](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23F9BFA7-yellow?style=flat-square&color=F9BFA7)
+Silver 🥈 | x3 | ![x3](/Image/custom/tier-label/tier-label-silver.svg) | #E1E4E4 | ![#E1E4E4](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23E1E4E4-yellow?style=flat-square&color=E1E4E4)
+Gold 🥇 | x4 | ![x4](/Image/custom/tier-label/tier-label-gold.svg) | #FAE57E | ![#FAE57E](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23FAE57E-yellow?style=flat-square&color=FAE57E)
 
 ___________________________________________________________________
 
