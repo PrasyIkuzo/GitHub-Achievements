@@ -24,6 +24,10 @@
 
 ___________________________________________________________________
 
+# <img src="/Media/pagerollup.gif" width="25px"> **Achievement List**
+
+Explore GitHub's Achievements List, which features categories like Earnable Achievements, how to earn Badges, and Unearnable Achievements. Show off your achievements and learn how to earn them!
+
 ## 🏅 **Displaying Achievements** 🏅
 
 <img src="/Media/star.gif" width="15px"> Displaying achievements on your profile is completely optional : by default, they can be seen by anyone viewing your public profile. <img src="/Media/rocketemoji.gif" width="20px">
