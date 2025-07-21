@@ -26,7 +26,7 @@ ___________________________________________________________________
 
 ## 🏅 **Displaying Achievements** 🏅
 
-#### Displaying achievements on your profile is completely optional : by default, they can be seen by anyone viewing your public profile.
+<img src="/Media/star.gif" width="15px"> Displaying achievements on your profile is completely optional : by default, they can be seen by anyone viewing your public profile. <img src="/Media/rocketemoji.gif" width="20px">
 
 > [!WARNING]  
 > **You can opt out from having achievements displayed on your profile by going to your** [Profile Settings](https://github.com/settings)
