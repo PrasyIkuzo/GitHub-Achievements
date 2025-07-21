@@ -126,13 +126,6 @@ ___________________________________________________________________
 
 ___________________________________________________________________
 
-# ℹ️ **More Information**
+# 😊 **Se You Next Time**
 
-#### You can find more information about GitHub Badges under this [Click Here](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile)
-
-<!-- </div> -->
-####
-
-<div align="center">
-  <img align="center" width="50%" src="https://github.com/PrasyIkuzo/GitHub-Achievements/blob/prasy/Badges/PullShark_Animated.gif">
-</div>
+![Dinosaurs 🗿](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/dino.gif)
