@@ -50,7 +50,7 @@ ___________________________________________________________________
 
 ___________________________________________________________________
 
-# <img src="/Media/stop.gif" width="25px"> **Un-Obtainable Achievements**
+## <img src="/Media/stop.gif" width="25px"> **Un-Obtainable Achievements**
 
 Un-Obtainable Achievements are badges that were once available but can no longer be earned. These achievements are part of GitHub's history, showcasing milestones that are now preserved as legacy accomplishments. <img src="/Media/tropyemoji.gif" width="20px">
 
@@ -63,7 +63,7 @@ Un-Obtainable Achievements are badges that were once available but can no longer
 
 ___________________________________________________________________
 
-# 👋 **Achievement Skin Tone**
+## 👋 **Achievement Skin Tone**
 
 #### Some achievements appearance depends on your Emoji Skin Tone Preference.
 
@@ -77,7 +77,7 @@ ___________________________________________________________________
 
 ___________________________________________________________________
 
-# 🎨 **Tier Colors & Labels**
+## 🎨 **Tier Colors & Labels**
 
 Each tier has a label associated which includes a color.
 
@@ -89,7 +89,7 @@ Gold 🥇 | x4 | ![x4](/Image/custom/tier-label/tier-label-gold.svg) | #FAE57E |
 
 ___________________________________________________________________
 
-# ✨ **Highlights Badges**
+## ✨ **Highlights Badges**
 <br>
 
 |                                                                                                                                                          Badge                                                                                                                                                           |            Name            |                                                            How to get                                                             |
@@ -102,7 +102,7 @@ ___________________________________________________________________
 
 ___________________________________________________________________
 
-# 🛑 **Previous Version**
+## 🛑 **Previous Version**
 
 ### 2021-04-19 - 2022-06-09
 
@@ -118,7 +118,7 @@ From the [start with Ingenuity on 2021-04-19](https://github.blog/2021-04-19-ope
 
 ___________________________________________________________________
 
-# 🔭 **Credits**
+## 🔭 **Credits**
 - Massive credit goes to @Schweinepriester for the high quality images for each badge, labels, information for each badge, and the inspiration to make this repository.
 - Credit to @drknzz for the skin tone images, information about it too & inspiration.
 
