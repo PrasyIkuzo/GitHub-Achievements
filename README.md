@@ -1,4 +1,5 @@
 **<h1 align="center">Prasy Ikuzo</h1>**
+<br>
 
 <div align="center">
   <picture>
@@ -67,6 +68,18 @@ Un-Obtainable Achievements are badges that were once available but can no longer
 
 ___________________________________________________________________
 
+# <img src="/Media/colortray.gif" width="35px"> **Tier Colors & Labels**
+
+Every tier has either an x2, x3, or x4 label with it that also includes color. Here is the information about each one below :
+
+| Tier | Label | Sample | Hex | Visual |
+| --- | --- | --- | --- | --- |
+Bronze 🥉 | x2 | ![x2](/Image/custom/tier-label/tier-label-bronze.svg) | #F9BFA7 | ![#F9BFA7](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23F9BFA7-yellow?style=flat-square&color=F9BFA7)
+Silver 🥈 | x3 | ![x3](/Image/custom/tier-label/tier-label-silver.svg) | #E1E4E4 | ![#E1E4E4](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23E1E4E4-yellow?style=flat-square&color=E1E4E4)
+Gold 🥇 | x4 | ![x4](/Image/custom/tier-label/tier-label-gold.svg) | #FAE57E | ![#FAE57E](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23FAE57E-yellow?style=flat-square&color=FAE57E)
+
+___________________________________________________________________
+
 # <img src="/Media/hello.gif" width="30px"> **Achievement Skin Tone**
 
 #### Some achievements appearance depends on your Emoji Skin Tone Preference.
@@ -78,18 +91,6 @@ ___________________________________________________________________
 | :-: | :-: | :-: |
 | ![Starstruck](https://github.com/PrasyIkuzo/GitHub-Achievements/blob/prasy/Badges/StarStruck_SkinTone1.png)                 | Starstruck         | <table>  <thead>  <tr>  <th>👋</th> <th>👋🏻</th>  <th>👋🏼</th>  <th>👋🏽</th>  <th>👋🏾</th>  <th>👋🏿</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="/Badges/StarStruck_SkinTone1.png" width="60px"></td>   <td align="center"><img src="/Badges/StarStruck_SkinTone2.png" width="60px"></td>  <td align="center"><img src="/Badges/StarStruck_SkinTone3.png" width="60px"></td>  <td align="center"><img src="/Badges/StarStruck_SkinTone4.png" width="60px"></td>  <td align="center"><img src="/Badges/StarStruck_SkinTone5.png" width="60px"></td>   <td align="center"><img src="/Badges/StarStruck_SkinTone6.png" width="60px"></td>   </tr>   <tr>  <td align="center">👋</td> <td align="center">👋🏻</td>  <td align="center">👋🏼</td>  <td align="center">👋🏽</td>  <td align="center">👋🏾</td>  <td align="center">👋🏿</td>  </tr>  </tbody>  </table>      |
 | ![Quickdraw](https://github.com/PrasyIkuzo/GitHub-Achievements/blob/prasy/Badges/QuickDraw_SkinTone1.png)                 | Quickdraw         | <table>  <thead>  <tr>  <th>👋</th> <th>👋🏻</th>  <th>👋🏼</th>  <th>👋🏽</th>  <th>👋🏾</th>  <th>👋🏿</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="/Badges/QuickDraw_SkinTone1.png" width="60px"></td>   <td align="center"><img src="Badges/QuickDraw_SkinTone2.png" width="60px"></td>  <td align="center"><img src="/Badges/QuickDraw_SkinTone3.png" width="60px"></td>  <td align="center"><img src="/Badges/QuickDraw_SkinTone4.png" width="60px"></td>  <td align="center"><img src="/Badges/QuickDraw_SkinTone5.png" width="60px"></td>   <td align="center"><img src="/Badges/QuickDraw_SkinTone6.png" width="60px"></td>   </tr>   <tr>  <td align="center">👋</td> <td align="center">👋🏻</td>  <td align="center">👋🏼</td>  <td align="center">👋🏽</td>  <td align="center">👋🏾</td>  <td align="center">👋🏿</td>  </tr>  </tbody>  </table>      |
-
-___________________________________________________________________
-
-# <img src="/Media/colortray.gif" width="35px"> **Tier Colors & Labels**
-
-Every tier has either an x2, x3, or x4 label with it that also includes color. Here is the information about each one below :
-
-| Tier | Label | Sample | Hex | Visual |
-| --- | --- | --- | --- | --- |
-Bronze 🥉 | x2 | ![x2](/Image/custom/tier-label/tier-label-bronze.svg) | #F9BFA7 | ![#F9BFA7](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23F9BFA7-yellow?style=flat-square&color=F9BFA7)
-Silver 🥈 | x3 | ![x3](/Image/custom/tier-label/tier-label-silver.svg) | #E1E4E4 | ![#E1E4E4](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23E1E4E4-yellow?style=flat-square&color=E1E4E4)
-Gold 🥇 | x4 | ![x4](/Image/custom/tier-label/tier-label-gold.svg) | #FAE57E | ![#FAE57E](https://img.shields.io/badge/-%F0%9F%8E%A8%EF%B8%8E%20%23FAE57E-yellow?style=flat-square&color=FAE57E)
 
 ___________________________________________________________________
 
