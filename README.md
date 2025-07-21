@@ -1,7 +1,5 @@
 **<h1 align="center">Prasy Ikuzo</h1>**
 
-<p align="center">
-
 <div align="center">
   <picture>
   <!-- TODO I couldn't figure out how to properly add local links in place of these images. These should be fixed later. - @PrasyIkuzo !-->
@@ -14,7 +12,7 @@
   </picture>
 </div>
 
-## 🏆 **GITHUB ACHIEVEMENTS** 🏆
+## <img src="/Media/tropy.gif?raw=true" width="50px"> GITHUB ACHIEVEMENTS <img src="/Media/tropy.gif?raw=true" width="50px">
 
 ![PrasyIkuzo](https://github.com/PrasyIkuzo/GitHub-Achievements/blob/prasy/Image/achievements-logo/github%20achievements.png)
 
