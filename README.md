@@ -63,7 +63,7 @@ Un-Obtainable Achievements are badges that were once available but can no longer
 
 ___________________________________________________________________
 
-## 👋 **Achievement Skin Tone**
+# <img src="/Media/hello.gif" width="30px"> **Achievement Skin Tone**
 
 #### Some achievements appearance depends on your Emoji Skin Tone Preference.
 
