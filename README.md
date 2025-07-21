@@ -76,6 +76,7 @@ Gold 🥇 | x4 | ![x4](/Image/custom/tier-label/tier-label-gold.svg) | #FAE57E |
 #### Some achievements appearance depends on your Emoji Skin Tone Preference.
 
 #### You can change your preferred Skin Tone by going to [Appearance Settings](https://github.com/settings/appearance)
+
 <br>
 
 | Badge | Name | Skin Tone Version | 
