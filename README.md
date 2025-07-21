@@ -52,7 +52,7 @@ ___________________________________________________________________
 
 ___________________________________________________________________
 
-# 🛑 **Badges No Longer Earnable**
+# ❌️ **Badges No Longer Earnable**
 <br>
 
 | Badge | Name | How To Get | Needed Amount | 
@@ -104,7 +104,7 @@ ___________________________________________________________________
 
 ___________________________________________________________________
 
-# 🕒 **Previous Version**
+# 🛑 **Previous Version**
 
 ### 2021-04-19 - 2022-06-09
 
@@ -120,7 +120,7 @@ From the [start with Ingenuity on 2021-04-19](https://github.blog/2021-04-19-ope
 
 ___________________________________________________________________
 
-# 📖 **Credits**
+# 🔭 **Credits**
 - Massive credit goes to @Schweinepriester for the high quality images for each badge, labels, information for each badge, and the inspiration to make this repository.
 - Credit to @drknzz for the skin tone images, information about it too & inspiration.
 
