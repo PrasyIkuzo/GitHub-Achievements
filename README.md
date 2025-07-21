@@ -77,9 +77,9 @@ ___________________________________________________________________
 
 ___________________________________________________________________
 
-## 🎨 **Tier Colors & Labels**
+# <img src="/Media/colortray.gif" width="35px"> **Tier Colors & Labels**
 
-Each tier has a label associated which includes a color.
+Every tier has either an x2, x3, or x4 label with it that also includes color. Here is the information about each one below :
 
 | Tier | Label | Sample | Hex | Visual |
 | --- | --- | --- | --- | --- |
