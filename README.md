@@ -118,7 +118,7 @@ From the [start with Ingenuity on 2021-04-19](https://github.blog/2021-04-19-ope
 
 ___________________________________________________________________
 
-# <img src="/Media/problem.gif" width="30px"> **Credits**
+# <img src="/Media/clipboard.png" width="30px"> **Credits**
 - Massive credit goes to @Schweinepriester for the high quality images for each badge, labels, information for each badge, and the inspiration to make this repository.
 - Credit to @drknzz for the skin tone images, information about it too & inspiration.
 
