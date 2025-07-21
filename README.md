@@ -50,7 +50,10 @@ ___________________________________________________________________
 
 ___________________________________________________________________
 
-# ❌️ **Badges No Longer Earnable**
+# <img src="/Media/stop.gif" width="25px"> **Un-Obtainable Achievements**
+
+Un-Obtainable Achievements are badges that were once available but can no longer be earned. These achievements are part of GitHub's history, showcasing milestones that are now preserved as legacy accomplishments. <img src="/Media/tropyemoji.gif" width="20px">
+
 <br>
 
 | Badge | Name | How To Get | Needed Amount | 
