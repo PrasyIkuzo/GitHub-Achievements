@@ -89,7 +89,7 @@ Gold 🥇 | x4 | ![x4](/Image/custom/tier-label/tier-label-gold.svg) | #FAE57E |
 
 ___________________________________________________________________
 
-## ✨ **Highlights Badges**
+# <img src="/Media/sparkles.gif" width="30px"> **Highlights Badges** <img src="/Media/sparkles.gif" width="30px">
 <br>
 
 |                                                                                                                                                          Badge                                                                                                                                                           |            Name            |                                                            How to get                                                             |
