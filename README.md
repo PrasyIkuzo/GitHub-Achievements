@@ -106,7 +106,7 @@ ___________________________________________________________________
 
 # 🕒 **Previous Name**
 
-Only 2 achievements have had their name altered in all of GitHub's History. These 2 achievements are the Public Sponsor and Mars 2020 Contributor as follows :
+Only 2 achievements have had their name altered in all of GitHub History. These 2 achievements are the Public Sponsor and Mars 2020 Contributor as follows :
 
 ```diff
 - GitHub Sponsor
