@@ -136,6 +136,3 @@ ___________________________________________________________________
 <div align="center">
   <img align="center" width="50%" src="https://github.com/PrasyIkuzo/GitHub-Achievements/blob/prasy/Badges/PullShark_Animated.gif">
 </div>
-
-
-![Dinosaurs 🗿](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/dino.gif)
