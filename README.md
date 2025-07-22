@@ -115,4 +115,4 @@ From the [start with Ingenuity on 2021-04-19](https://github.blog/2021-04-19-ope
 
 <br>
 
-![Dinosaurs 🗿](https://github.com/PrasyIkuzo/PrasyIkuzo/blob/main/Image/dino.gif)
+![Dinosaurs 🗿](https://github.com/PrasyIkuzo/GitHub-Achievements/blob/prasy/Media/dino.gif)
