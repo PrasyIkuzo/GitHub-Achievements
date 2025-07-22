@@ -1,4 +1,4 @@
-**<h1 align="center">Prasy Ikuzo</h1>**
+**<h1 align="center">Prasy Starboy</h1>**
 <br>
 
 <div align="center">
